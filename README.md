@@ -1,6 +1,7 @@
 # New Site Template
 
-[TODO. There will be project description]
+This bootstrap template works offline. All necessary files
+were saved in the directory "static".
 
 # Project Goals
 
